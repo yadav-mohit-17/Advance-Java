@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Product Details</title>
+<style>
+	table{
+	margin:auto;
+	background:#292929;
+	color:#ffff33;
+	width:250px;
+	height:250px;
+	border-radius:10px;
+}
+caption{
+	color:blue;
+	font-size:26px;
+}
+input{
+	border:none;
+	outline:none;
+	width:250px;
+	height:20px;
+}
+button{
+	width:130px;
+	border-radius:15px;
+	font-size:20px;
+	background:linear-gradient(to top,yellow,green);
+}
+button:hover{
+	background:linear-gradient(to bottom,yellow,green);
+}
+</style>
+</head>
+<body>
+	<form action="third" method="post">
+		<table>
+			<caption>Product Details</caption>
+			<tr>
+				<td><label>Product Code :</label></td>
+				<td><input type="text" name="pc"/></td>
+			</tr>
+			<tr>
+				<td><label>Product Name :</label></td>
+				<td><input type="text" name="pn"/></td>
+			</tr>
+			<tr>
+				<td><label>Product Price :</label></td>
+				<td><input type="text" name="pp"/></td>
+			</tr>
+			<tr>
+				<td><label>Product Qty :</label></td>
+				<td><input type="text" name="pq"/></td>
+			</tr>
+			<tr>
+				<td><button> Submit </button></td>
+			</tr>
+		</table>
+	</form>
+</body>
+</html>

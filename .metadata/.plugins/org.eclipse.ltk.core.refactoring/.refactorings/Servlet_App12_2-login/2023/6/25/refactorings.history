@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;test.AdminBeanServlet&apos; to &apos;AdminLoginServlet&apos;&#x0D;&#x0A;- Original project: &apos;Servlet_App12_2-login&apos;&#x0D;&#x0A;- Original element: &apos;test.AdminBeanServlet&apos;&#x0D;&#x0A;- Renamed element: &apos;test.AdminLoginServlet&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;AdminBeanServlet&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/main\/java&lt;test{AdminBeanServlet.java[AdminBeanServlet" matchStrategy="1" name="AdminLoginServlet" qualified="false" references="true" similarDeclarations="false" stamp="1687579451427" textual="false" version="1.0"/>
+</session>

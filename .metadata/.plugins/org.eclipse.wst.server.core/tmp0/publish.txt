@@ -1,0 +1,24 @@
+#Tomcat publish data
+#Tue Jan 23 22:56:59 IST 2024
+org.eclipse.jst.jee.server\:Servlet_App12-Practice=C\:\\Tomcat 9.0\\wtpwebapps\\Servlet_App12-Practice
+org.eclipse.jst.jee.server\:Servlet-Life-Cycle=C\:\\Tomcat 9.0\\wtpwebapps\\Servlet-Life-Cycle
+org.eclipse.jst.jee.server\:Jsp_Application_2=C\:\\Tomcat 9.0\\wtpwebapps\\Jsp_Application_2
+org.eclipse.jst.jee.server\:Jsp_Application_3=C\:\\Tomcat 9.0\\wtpwebapps\\Jsp_Application_3
+org.eclipse.jst.jee.server\:Jsp_Application_1=C\:\\Tomcat 9.0\\wtpwebapps\\Jsp_Application_1
+org.eclipse.jst.jee.server\:TestProject=C\:\\Tomcat 9.0\\wtpwebapps\\TestProject
+org.eclipse.jst.jee.server\:Servlet_App111=C\:\\Tomcat 9.0\\wtpwebapps\\Servlet_App111
+org.eclipse.jst.jee.server\:BookDetails=C\:\\Tomcat 9.0\\wtpwebapps\\BookDetails
+org.eclipse.jst.jee.server\:Servlet_App11_LOGIN=C\:\\Tomcat 9.0\\wtpwebapps\\Servlet_App11_LOGIN
+org.eclipse.jst.jee.server\:Servlet_App_Filter=C\:\\Tomcat 9.0\\wtpwebapps\\Servlet_App_Filter
+org.eclipse.jst.jee.server\:Bank=C\:\\Tomcat 9.0\\wtpwebapps\\Bank
+org.eclipse.jst.jee.server\:Servlet_App10=C\:\\Tomcat 9.0\\wtpwebapps\\Servlet_App10
+org.eclipse.jst.jee.server\:ServletApp13_sendRedirectmethod=C\:\\Tomcat 9.0\\wtpwebapps\\ServletApp13_sendRedirectmethod
+org.eclipse.jst.jee.server\:Servlet_App4=C\:\\Tomcat 9.0\\wtpwebapps\\Servlet_App4
+org.eclipse.jst.jee.server\:Servlet_App_Filter1=C\:\\Tomcat 9.0\\wtpwebapps\\Servlet_App_Filter1
+org.eclipse.jst.jee.server\:Servlet_App5=C\:\\Tomcat 9.0\\wtpwebapps\\Servlet_App5
+org.eclipse.jst.jee.server\:Servlet_App7=C\:\\Tomcat 9.0\\wtpwebapps\\Servlet_App7
+org.eclipse.jst.jee.server\:Servlet_App1=C\:\\Tomcat 9.0\\wtpwebapps\\Servlet_App1
+org.eclipse.jst.jee.server\:Jsp_Application_6=C\:\\Tomcat 9.0\\wtpwebapps\\Jsp_Application_6
+org.eclipse.jst.jee.server\:Servlet_App2=C\:\\Tomcat 9.0\\wtpwebapps\\Servlet_App2
+org.eclipse.jst.jee.server\:ServletApp14_sendRedirect=C\:\\Tomcat 9.0\\wtpwebapps\\ServletApp14_sendRedirect
+org.eclipse.jst.jee.server\:Servlet_App3=C\:\\Tomcat 9.0\\wtpwebapps\\Servlet_App3

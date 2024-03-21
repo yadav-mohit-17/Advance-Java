@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;test.user.ProductDAO&apos; to &apos;ViewProductDAO&apos;&#x0D;&#x0A;- Original project: &apos;Jsp_Application_6&apos;&#x0D;&#x0A;- Original element: &apos;test.user.ProductDAO&apos;&#x0D;&#x0A;- Renamed element: &apos;test.user.ViewProductDAO&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;ProductDAO&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/main\/java&lt;test.user{ProductDAO.java[ProductDAO" matchStrategy="1" name="ViewProductDAO" qualified="false" references="true" similarDeclarations="false" stamp="1689984950736" textual="false" version="1.0"/>
+</session>
