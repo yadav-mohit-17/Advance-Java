@@ -1,10 +1,11 @@
 #Tomcat publish data
-#Tue Jan 23 22:56:59 IST 2024
-org.eclipse.jst.jee.server\:Servlet_App12-Practice=C\:\\Tomcat 9.0\\wtpwebapps\\Servlet_App12-Practice
+#Sat Mar 23 16:24:07 IST 2024
 org.eclipse.jst.jee.server\:Servlet-Life-Cycle=C\:\\Tomcat 9.0\\wtpwebapps\\Servlet-Life-Cycle
+org.eclipse.jst.jee.server\:Servlet_App12-Practice=C\:\\Tomcat 9.0\\wtpwebapps\\Servlet_App12-Practice
 org.eclipse.jst.jee.server\:Jsp_Application_2=C\:\\Tomcat 9.0\\wtpwebapps\\Jsp_Application_2
 org.eclipse.jst.jee.server\:Jsp_Application_3=C\:\\Tomcat 9.0\\wtpwebapps\\Jsp_Application_3
 org.eclipse.jst.jee.server\:Jsp_Application_1=C\:\\Tomcat 9.0\\wtpwebapps\\Jsp_Application_1
+org.eclipse.jst.jee.server\:DataBaseInteraction=C\:\\Tomcat 9.0\\wtpwebapps\\DataBaseInteraction
 org.eclipse.jst.jee.server\:TestProject=C\:\\Tomcat 9.0\\wtpwebapps\\TestProject
 org.eclipse.jst.jee.server\:Servlet_App111=C\:\\Tomcat 9.0\\wtpwebapps\\Servlet_App111
 org.eclipse.jst.jee.server\:BookDetails=C\:\\Tomcat 9.0\\wtpwebapps\\BookDetails
